@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 
+I am Yves.
+Enthusiastic and skilled cybersecurity expert with extensive knowledge of network security elements and fundamental IT principles. Demonstrated proficiency in conducting vulnerability assessments and applying risk mitigation techniques to information systems. Well-versed in utilizing diverse security tools, including Wireshark, Snort, proxies, antivirus, and IDPS concepts.
 <!--
 **yvesbak/yvesbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
